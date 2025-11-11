@@ -3,4 +3,8 @@ Orange is the second color of a rainbow
 Yellow is the thrid color of a rainbow
 Green is the fourth color of a rainbow
 Blue is the fifth color of a rainbow
+<<<<<<< HEAD
 violet is the seventh color of a rainbow
+=======
+Indigo is the sixth color of a rainbow
+>>>>>>> origin/main
